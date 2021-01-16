@@ -15,9 +15,9 @@
 // sayHello();
 
 // ******* FUNCTIONS WITH ARGUMENTS *****
-// function logsHello(name) {
-//   console.log(`Hello, ${name}!`);
-// }
+function logsHello(name) {
+  console.log(`Hello, ${name}!`);
+}
 
 // logsHello('Dr. T');
 const sum = 55;
